@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/joao14/api-rest-player/issues"
   },
-  "homepage": "https://github.com/joao14/api-rest-player#readme"
+  "homepage": "https://github.com/joao14/api-rest-player#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
 }
