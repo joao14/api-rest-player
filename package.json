@@ -1,0 +1,19 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Api rest with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao14/api-rest-player.git"
+  },
+  "author": "Alex Merino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joao14/api-rest-player/issues"
+  },
+  "homepage": "https://github.com/joao14/api-rest-player#readme"
+}
